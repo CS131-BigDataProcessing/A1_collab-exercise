@@ -1,4 +1,4 @@
-#A1 - Collaboration exercise
+# A1 - Collaboration exercise
 This project is to introduce you to practice contributing to a project as a collaborator. You will make a fork of the repository, make changes and propose those changes back to the upstream repository.
 
 ## Instructions
