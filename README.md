@@ -45,8 +45,10 @@ To push your changes to GitHub, use the `git push` command.
 git push
 ```
 
-~~6. Submit a pull request.~~ 6. Commit the project
-~~Once you push your changes, submit your changes for  review by  submitting a `Compare & pull request`.~~ Select the “Git” tab and check all the files that are changed. Hit the “Commit” button. Write a short description for the commit. On my end, I  will merge your changes into the main branch of this project.
+~~6. Submit a pull request.~~ 
+~~Once you push your changes, submit your changes for  review by  submitting a `Compare & pull request`.~~ 
+6. Commit the project
+Select the “Git” tab and check all the files that are changed. Hit the “Commit” button. Write a short description for the commit. On my end, I  will merge your changes into the main branch of this project.
 
 **Congratulations! You just contributed to a project.**
 
